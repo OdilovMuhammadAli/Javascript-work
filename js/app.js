@@ -1,5 +1,7 @@
 // 1-misol 
-// bunda gpt ishlatilmagan !
+
+// bunda gpt ishlatilmagan lekin yordam soralgan  !
+
 // Birlik (1–9)
 // let bir = "bir";
 // let ikki = "ikki";
@@ -90,7 +92,9 @@
 
 
 // 3-misol 
+
 // bunda gpt ishlatilmagan !
+
 // let soz = prompt("Biror so'z kiriting:");
 // let i = 0;
 
