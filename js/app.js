@@ -1,6 +1,6 @@
 // 1-misol 
 
-// bunda gpt ishlatilmagan lekin yordam soralgan  !
+// bunda gpt ishlatilmagan lekin yordam soralgan Botirjondan va Yutubdan gayd  !
 
 // Birlik (1–9)
 // let bir = "bir";
