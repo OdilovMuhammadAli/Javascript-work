@@ -1,4 +1,5 @@
 // 1-misol 
+// bunda gpt ishlatilmagan !
 // Birlik (1–9)
 // let bir = "bir";
 // let ikki = "ikki";
@@ -24,10 +25,7 @@
 // let son = prompt("Son kiriting");
 // let result = "";
 
-// if (son > 0 && son < 1000) {
-//     let yuzlik = Math.floor(son / 100);
-//     let onliklar = Math.floor((son % 100) / 10);
-//     let birliklar = son % 10;
+
 
 //     // Yuzlik
 //     switch (yuzlik) {
@@ -69,30 +67,30 @@
 // } else {
 //     console.log("Iltimos, 1 dan 999 gacha bo'lgan son kiriting.");
 // }
+
+
 // 2-misol
-// let son = +prompt("44 dan 66 gacha bir son o'ylang: ");
-// if (son < 44 || son > 66 || isNaN(son)) {
-//   console.log("Faqat 44 dan 66 gacha bo'lgan son kiriting!");
-  
-// } else {
-//   let topildi = false;
-//   let urinish = 0;
+// let min = 44;
+// let max = 66;
+// let javob = "n"; 
 
-//   while (!topildi) {
-//     let taxmin = Math.floor(Math.random() * (66 - 44 + 1)) + 44;
-//     urinish++;
+// while (javob !== "y") {
+//   let taxmin = Math.floor(Math.random()*(max - min + 1)) + min;
+//   console.log("soniz?:", taxmin);
 
-//     console.log("Mening Tahlilim:", taxmin);
 
-//     if (taxmin === son) {
-//       console.log("Topdim! Siz o'ylagan son bu:", taxmin);
-//       console.log("Urinishlar soni:", urinish);
-//       topildi = true;
-//     }
-//   }
+//   javob = prompt(`${taxmin} siz oylagan sonmi? (y/n)`);
+
+//   if (javob === "y") {
+//     console.log("Topildi! 🎉 Kompyuter siz oylagan sonni topdi:", taxmin);
+//   } 
 // }
 
+
+
+
 // 3-misol 
+// bunda gpt ishlatilmagan !
 // let soz = prompt("Biror so'z kiriting:");
 // let i = 0;
 
